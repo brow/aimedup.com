@@ -2,11 +2,28 @@
 layout: default
 ---
 
-<img 
-  class="headshot"
-  src="/images/rebecca.jpg"
-  alt="photo of Rebecca">
+# AIM Communications
 
-# Rebecca Butler
+We craft stories that drive change.
 
-[LinkedIn](https://www.linkedin.com/in/rebeccajobutler/)
+A big idea can only spread to those ready to hear it. Utilizing strategic opinion research, we map audience mindset to hone the targeted messages that build movements.
+
+We are a mission-driven communications firm focused on climate resiliency, community development and social justice.
+
+## Services
+
+### Strategy
+- Communications planning
+- Engagement and coalition-building
+- Vision, tactics and calibration
+
+### Analysis
+- Behavioral research and insight
+- Success metrics
+- Web analytics
+ 
+ 
+### Outreach
+- Video concept and production
+- Social media strategy and execution
+- Web and social content creation
