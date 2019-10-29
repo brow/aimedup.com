@@ -6,7 +6,7 @@ layout: default
 
 We craft stories that drive change.
 
-A big idea can only spread to those ready to hear it. Utilizing strategic opinion research, we map audience mindset to hone the targeted messages that build movements.
+A big idea can only spread to those ready to hear it. Utilizing strategic opinion research, we map audience mindsets and create targeted messages that build movements.
 
 We are a mission-driven communications firm focused on climate resiliency, community development and social justice.
 
