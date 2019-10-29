@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-
 # AIM Communications
 
 We craft stories that drive change.
 
 A big idea can only spread to those ready to hear it. Utilizing strategic opinion research, we map audience mindsets and create targeted messages that build movements.
+
+Read more about [our work](/work).
 
 ### Strategy
  
