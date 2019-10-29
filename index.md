@@ -8,22 +8,26 @@ We craft stories that drive change.
 
 A big idea can only spread to those ready to hear it. Utilizing strategic opinion research, we map audience mindsets and create targeted messages that build movements.
 
-We are a mission-driven communications firm focused on climate resiliency, community development and social justice.
-
-## Services
-
 ### Strategy
-- Communications planning
-- Engagement and coalition-building
-- Vision, tactics and calibration
+ 
+AIM combines expertise in results-driven Silicon Valley tech culture with compelling, targeted storytelling. We bring the tools and techniques that move great ideas from planning to implementation and expansion.
+ 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/189481660?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-### Analysis
-- Behavioral research and insight
-- Success metrics
-- Web analytics
+A series of promotional documentaries produced for UC San Francisco’s Preterm Birth Initiative (PTBi). 
+
+### Mission
  
+We’re dedicated to helping clients who help others. We work with organizations fighting to change the world, or their small corner of it, from international NGOs to startups and everything in between.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/202049653?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+Fundraising video for Breakthrough San Francisco, a 501c3 that supports high-potential, low-income middle school students on the path to college and trains outstanding college students for education careers.
  
-### Outreach
-- Video concept and production
-- Social media strategy and execution
-- Web and social content creation
+### Insight
+ 
+Neuroaffective research on decision making has demonstrated the critical importance of messaging built on shared values. By understanding the identities and mindsets of a target audience, we’re able to craft persuasive stories that speak to people’s lived experiences. 
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/93933983?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+Brand awareness for Environmental Traveling Companions, whose trips enable participants to access the wilderness and develop an environmental stewardship ethic.
