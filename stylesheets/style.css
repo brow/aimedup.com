@@ -24,8 +24,10 @@ h1 {
   line-height: normal; }
 
 h2 {
-  margin-top: 2rem;
-  line-height: 1.4em; }
+  margin-top: 2.5rem;
+  line-height: 1.4em;
+  font-size: 1.3em;
+}
 
 li {
   margin-bottom: 0.4em;

@@ -9,7 +9,7 @@ A big idea can only spread to those ready to hear it. Utilizing strategic opinio
 
 Read more about [our work](/work).
 
-### Strategy
+## Strategy
  
 AIM combines expertise in results-driven Silicon Valley tech culture with compelling, targeted storytelling. We bring the tools and techniques that move great ideas from planning to implementation and expansion.
  
@@ -17,7 +17,7 @@ AIM combines expertise in results-driven Silicon Valley tech culture with compel
 
 A series of promotional documentaries produced for UC San Francisco’s Preterm Birth Initiative (PTBi). 
 
-### Mission
+## Mission
  
 We’re dedicated to helping clients who help others. We work with organizations fighting to change the world, or their small corner of it, from international NGOs to startups and everything in between.
 
@@ -25,7 +25,7 @@ We’re dedicated to helping clients who help others. We work with organizations
 
 Fundraising video for Breakthrough San Francisco, a 501c3 that supports high-potential, low-income middle school students on the path to college and trains outstanding college students for education careers.
  
-### Insight
+## Insight
  
 Neuroaffective research on decision making has demonstrated the critical importance of messaging built on shared values. By understanding the identities and mindsets of a target audience, we’re able to craft persuasive stories that speak to people’s lived experiences. 
 
