@@ -13,9 +13,11 @@ Read more about [our work](/work).
 
 AIM combines expertise in results-driven Silicon Valley tech culture with compelling, targeted storytelling. We bring the tools and techniques that move great ideas from planning to implementation and expansion.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/189481660?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="https://player.vimeo.com/video/189481660?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
-A series of promotional documentaries produced for UC San Francisco’s Preterm Birth Initiative (PTBi).
+<div class="caption">A series of promotional documentaries produced for UC San Francisco’s Preterm Birth Initiative (PTBi).</div>
 
 ## Mission
 
