@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Services
 
 We are a mission-driven communications firm focused on climate resiliency, community development and social justice.
